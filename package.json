@@ -20,5 +20,7 @@
     "bootstrap": "^4.1.3",
     "jquery": "^3.3.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "hoek": "^5.0.3"
+  }
 }
