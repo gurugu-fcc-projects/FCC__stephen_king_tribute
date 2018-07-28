@@ -1,4 +1,4 @@
-## FreeCodeCamp React Project - Build a Tribute Page
+## FreeCodeCamp Front End Project - Build a Tribute Page
 
 ## User Stories
 
