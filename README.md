@@ -12,7 +12,7 @@ It was my first project and I didn't know much at that time. This project uses B
 ## Links
 
 - [ ] this project at codepen: [https://codepen.io/GuRuGu/full/ONPXKb/](https://codepen.io/GuRuGu/full/ONPXKb/)
-- [ ] this project at gh-pages: [https://gurugumawaru.github.io/FCC_StephenKingTribute/](https://gurugumawaru.github.io/FCC_StephenKingTribute/)
+- [ ] this project at gh-pages: [https://gurugu-fcc-projects.github.io/FCC__stephen_king_tribute/](https://gurugu-fcc-projects.github.io/FCC__stephen_king_tribute/)
 - [ ] freecodecamp challenge: [https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
 
 ## Video Walkthrough
